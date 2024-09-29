@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+setuptools
+pytest
+requests
+
+pypdf
+chromadb
+
+langchain
+langchain_core
+langchain_chroma
+langchain-openai
+langchain-community
